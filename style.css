@@ -18,7 +18,7 @@ body {
     min-height: 100vh;
     display: grid;
     place-items: center;
-    background: linear-gradient(var(--clr-edward), var(--clr-roman-coffee));
+    background: linear-gradient(#ff0000, #0900ff);;
     background-position: center;
     background-size: cover;
     perspective: 500px;
